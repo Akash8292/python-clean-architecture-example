@@ -2,7 +2,7 @@
 
 # About
 This repository is a simple example of an implementation Clean Architecture using Python.
-Hi I am akash
+
 # Articles about this project
 I am writing a series of Linkedin articles related to this project:
 * [Python Clean Architecture In-memory CLI implementation](https://www.linkedin.com/pulse/implementation-clean-architecture-python-part-1-cli-watanabe/): I wrote [this article](https://www.linkedin.com/pulse/implementation-clean-architecture-python-part-1-cli-watanabe/) explaining the Clean Architecture, its layers and a Python implementation of an in-memory CLI.
